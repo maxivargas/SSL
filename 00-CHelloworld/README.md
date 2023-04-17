@@ -1,1 +1,1 @@
-### Copilador/es: DEV C++/ Visual Studio Code
+### Copilador/es: DEV C++/ Visual Studio Code (VSC)
